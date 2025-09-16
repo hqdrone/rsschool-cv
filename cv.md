@@ -25,6 +25,11 @@ Frontend Developer with 7+ years of experience in HTML/CSS/JS and 3+ years in Re
 - SASS/SCSS
 
 ## Code Example
+Return the number (count) of vowels in the given string.
+
+We will consider `a`, `e`, `i`, `o`, `u` as vowels for this Kata (but not `y`).
+
+The input string will only consist of lower case letters and/or spaces.
 ```
 function getCount(str) {
   var vowelsCount = 0;
