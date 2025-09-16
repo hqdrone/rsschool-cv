@@ -37,3 +37,18 @@ function getCount(str) {
   return vowelsCount;
 }
 ```
+
+## Experience
+
+- Software Developer | Valamis Group Oy | Jan 2022 – Nov 2024 | Finland
+
+- HTML/CSS/JS Developer (Freelance) | 2015 - 2022 | Russia
+
+## Education
+- Bachelor’s degree in Information Systems & Technology | Petrozavodsk State University (2011 - 2015)
+- Information Systems & Technology | Petrozavodsk Technical College (2007 - 2010)
+
+## Languages
+- **Russian** - Native
+- **English** - Intermediate
+- **Finnish** - Beginner
