@@ -1,1 +1,1 @@
-# rsschool-cv
+https://hqdrone.github.io/rsschool-cv/cv
