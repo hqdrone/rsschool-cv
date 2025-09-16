@@ -23,3 +23,17 @@ Frontend Developer with 7+ years of experience in HTML/CSS/JS and 3+ years in Re
 - Pug
 - Stylus
 - SASS/SCSS
+
+## Code Example
+```
+function getCount(str) {
+  var vowelsCount = 0;
+  const vowels = ['a','e','i','o','u']
+  for (let i of str) {
+    if (vowels.includes(i)){
+      vowelsCount++
+    }
+  }  
+  return vowelsCount;
+}
+```
