@@ -1,1 +1,1 @@
-https://hqdrone.github.io/rsschool-cv/cv
+https://hqdrone.github.io/rsschool-cv/
